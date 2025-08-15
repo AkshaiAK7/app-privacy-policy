@@ -11,7 +11,7 @@ Each app has its own dedicated Markdown file detailing:
 ### 📋 Current Policies
 
 - [Privacy Policy for Ak7](https://akshaiak7.github.io/app-privacy-policy/ak7-privacy.md)
-- [Privacy Policy for Dot Dodge](https://akshaiak7.github.io/app-privacy-policy/dotdodge-privacy.html)
+- [Privacy Policy for Dot Dodge](https://akshaiak7.github.io/app-privacy-policy/generic-privacy-policy.md)
 
 > More app policies will be added here as new apps are released.
 
